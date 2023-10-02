@@ -1,0 +1,1586 @@
+[
+  {
+    "_id": "628082715cd073455b68fa6f",
+    "name": "LSPD First Response",
+    "author": "G17 Media",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "628082c35cd073455b68fa72",
+    "name": "RAGE Plugin Hook",
+    "author": "RPH Dev Team",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "62819cc4f3be01057bad1fd9",
+    "name": "OpenIV",
+    "author": "OpenIV Team",
+    "mod_link": "https://archive.org/download/openiv_202304",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "628247e2dea8ef85aec25951",
+    "name": "RAGE Native UI",
+    "author": "Alex Guirre",
+    "mod_link": "https://github.com/alexguirre/RAGENativeUI/releases",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "62824868dea8ef85aec25954",
+    "name": "Simple Trainer",
+    "author": "Sjaak327",
+    "mod_link": "https://www.gta5-mods.com/scripts/simple-trainer-for-gtav",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "6282aa27e5d58b285f93c76c",
+    "name": "Stop the Ped",
+    "author": "Bejoljo",
+    "mod_link": "https://www.bejoijo.com/post/stop-the-ped",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6282aab0e5d58b285f93c76e",
+    "name": "Stop The Ped Extra Questions",
+    "author": "Sereous313/EchoWolf",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/25937-ultimate-questions-for-stp/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6282ab16e5d58b285f93c770",
+    "name": "EmberXML's Better Search Items",
+    "author": "RealiSIM Gaming",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/31325-emberxmls/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6282ab52e5d58b285f93c772",
+    "name": "EmberXML compulite charges",
+    "author": "RealiSIM Gaming",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/31325-emberxmls/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6282ac52e5d58b285f93c774",
+    "name": "Ultimate Backup",
+    "author": "Bejoljo",
+    "mod_link": "https://www.bejoijo.com/post/ultimate-backup",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6282ac92e5d58b285f93c776",
+    "name": "Compulite",
+    "author": "Bejoljo",
+    "mod_link": "https://www.bejoijo.com/post/compulite",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6283151c645baedfaf266809",
+    "name": "Grammar Police",
+    "author": "Opus49/BenH6021",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/28003-grammarpolice/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6283158a645baedfaf26680c",
+    "name": "Custom Pullover",
+    "author": "Waynieoaks",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/27260-custom-pullover/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "628315b8645baedfaf26680e",
+    "name": "ALPR Lite",
+    "author": "Bejoljo ",
+    "mod_link": "https://www.bejoijo.com/post/alprlite",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "628315e4645baedfaf266810",
+    "name": "LIDAR Radar Gun",
+    "author": "Opus49/BenH6021",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/38506-lidar-gun/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6283162e645baedfaf266813",
+    "name": "Prowler Radar",
+    "author": "Opus49/BenH6021",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/38133-prowler-radar/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62831658645baedfaf266815",
+    "name": "Callout Interface",
+    "author": "Opus49/BenH6021",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37828-callout-interface/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "628316f8645baedfaf266817",
+    "name": "Basic Parking Enforcement",
+    "author": "ThruZZd",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/33307-basicparkingenforcement-go-get-em-paydisplay-tickets-more/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "628908edc27e65c1b78f77cc",
+    "name": "Callout Manager",
+    "author": "PieRGud",
+    "mod_link": "http://www.lcpdfr.com/files/file/13430-callout-manager/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62890b2f3a5af88e18bdafe7",
+    "name": "Player Location Display",
+    "author": "Lt. caine",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/7706-player-location-display/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62890ba53a5af88e18bdafea",
+    "name": "License Plate Randomizer",
+    "author": "PNWParksFan",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/10847-license-plate-randomizer-get-rid-of-46eek572-automatically/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62890be83a5af88e18bdafec",
+    "name": "Easy Loadout",
+    "author": "HazyTube",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/21678-easy-loadout-continued/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62890c3c3a5af88e18bdafee",
+    "name": "Sticky Wheels",
+    "author": "Khorio",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13022-stickywheels/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62890c6c3a5af88e18bdaff0",
+    "name": "DashcamV",
+    "author": "PieRGud",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/8257-dashcam-v/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62890ccb3a5af88e18bdaff4",
+    "name": "United callouts",
+    "author": "sEbi3",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/20730-unitedcallouts-robbery-drugs-burglary-more/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62890d143a5af88e18bdaff6",
+    "name": "SpeedyPursuit",
+    "author": "Various Authors",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37695-speedypursuit/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62890da03a5af88e18bdaff8",
+    "name": "Unsafe callouts",
+    "author": "L33dy",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/38051-unsafe-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62890dd83a5af88e18bdaffa",
+    "name": "Emergency callouts",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37760-emergency-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62890e003a5af88e18bdaffc",
+    "name": "686 Callouts",
+    "author": "charlie686",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37390-686-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62890e663a5af88e18bdb000",
+    "name": "DeLuca's County Callouts",
+    "author": "Adam DeLuca",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/29987-delucas-county-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62890ec83a5af88e18bdb002",
+    "name": "Increased Weapon Rate of Fire",
+    "author": "Dwardo225",
+    "mod_link": "https://www.gta5-mods.com/weapons/dwardo225-s-weapon-rate-of-fire",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "62890f443a5af88e18bdb004",
+    "name": "Carson SA-365",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/27797-carson-sa-365-siren-studio-recorded-fivem-ready/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "62890f9b3a5af88e18bdb006",
+    "name": "Code3 Z3 Siren",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/24119-code-3-z3-siren-fivem-ready-studio-recorded/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "62890fcd3a5af88e18bdb008",
+    "name": "Code3 Z3 Rumbler Siren",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/26559-code-3-z3-rumbler-siren-fivem-ready/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6289101c3a5af88e18bdb00a",
+    "name": "Motorola Astro Spectra",
+    "author": "Werkan",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/30819-motorola-astro-spectra/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628910543a5af88e18bdb00c",
+    "name": "Realistic cHP Siren",
+    "author": "charleszinkey",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/21926-charleszinkeys-realistic-chp-siren-els/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6289107d3a5af88e18bdb00e",
+    "name": "Federal Signal 80k",
+    "author": "TheDmac",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/13641-federal-signal-80k-els-and-siren-mastery/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628910b93a5af88e18bdb010",
+    "name": "Authentic Federal Signal SSP3000B",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/22673-authentic-federal-signal-ssp3000b-siren-pack-fivem-ready-easy-install/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628910f93a5af88e18bdb012",
+    "name": "LAPD Federal Signal Smart Siren SS2000",
+    "author": "TheDmac",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/12822-lapd-federal-signal-smart-siren-ss2000-els-and-siren-mastery/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628911f33a5af88e18bdb014",
+    "name": "Whelen Epsilon Siren",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/25911-whelen-epsilon-siren-fivem-ready/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628912163a5af88e18bdb016",
+    "name": "Federal Signal PA-15A Siren",
+    "author": "MrGhostman",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/8462-federal-signal-pa-15a-siren-police-version/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628912313a5af88e18bdb018",
+    "name": "Omega 90 Unitrol Siren",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/23604-omega-90-unitrol-siren-with-full-priority-sweep/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628912dd3a5af88e18bdb01a",
+    "name": "Federal Signal SmartSiren SSP3000B",
+    "author": "Nartbag",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/22098-federal-signal-smartsiren%c2%AE-ssp3000bpathfinder/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628913143a5af88e18bdb01c",
+    "name": "Federal Signal Touchmaster Delta Siren V",
+    "author": "Illusionyary",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/11747-federal-signal-touchmaster-delta-siren/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6289138c3a5af88e18bdb01e",
+    "name": "NYPD Siren",
+    "author": "ArielHendra/Epic Gaming",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/16802-real-nypd-fedsig-ss2000-rumbler-siren-airhorn/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628913ac3a5af88e18bdb020",
+    "name": "Whelen cencom Sapphire Siren",
+    "author": "crazytaxi1000",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/11967-whelen-cencom-sapphire-siren/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "628913da3a5af88e18bdb022",
+    "name": "PA300 Federal Signal Siren",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/23526-pa300-federal-signal-siren-fivem-ready-pro-recorded-with-real-siren/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6289141d3a5af88e18bdb024",
+    "name": "Emergency Lighting System(ELS)",
+    "author": "Lt. caine",
+    "mod_link": "http://www.lcpdfr.com/files/file/13865-emergency-lighting-system/",
+    "category": "Lighting",
+    "__v": 0
+  },
+  {
+    "_id": "628914373a5af88e18bdb026",
+    "name": "BETTER Radiance V3",
+    "author": "Matthew Skead",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/23298-better-radiance/",
+    "category": "Lighting",
+    "__v": 0
+  },
+  {
+    "_id": "628914613a5af88e18bdb028",
+    "name": "ELS Increased Environmental Lighting",
+    "author": "Mints",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/22448-els-increased-environmental-lighting/",
+    "category": "Lighting",
+    "__v": 0
+  },
+  {
+    "_id": "628914893a5af88e18bdb02a",
+    "name": "Realistic Blood V 4K",
+    "author": "cSYON",
+    "mod_link": "https://www.gta5-mods.com/misc/realistic-blood-v",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "628914a83a5af88e18bdb02c",
+    "name": "VisualV",
+    "author": "_cP_/robi29",
+    "mod_link": "https://www.gta5-mods.com/misc/visualv",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "628914cc3a5af88e18bdb02e",
+    "name": "Make Visuals Great Again(MVGA)",
+    "author": "Kompetenzz",
+    "mod_link": "https://www.ausgamer.net/mods/file/30-make-visuals-great-again/",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "628914e53a5af88e18bdb030",
+    "name": "Ambient FX",
+    "author": "Dilapidated",
+    "mod_link": "https://www.gta5-mods.com/scripts/ambient-fx",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "6289b21f582d261181bc7d70",
+    "name": "Spotlight",
+    "author": "alexguirre",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/7922-spotlight/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6289b240582d261181bc7d72",
+    "name": "Deadly Weapons",
+    "author": "SuperPyroManiac",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/27453-deadly-weapons-guns-are-actually-dangerous/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6289b257582d261181bc7d74",
+    "name": "Vehicle Keys",
+    "author": "NoNameSet",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/22203-vehicle-keys/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6289b2c6582d261181bc7d76",
+    "name": "Traffic callouts",
+    "author": "VeteranFighterr",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/32139-traffic-callouts-beta/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b304582d261181bc7d7a",
+    "name": "Leroy callouts",
+    "author": "Leroy100",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/32312-leroy-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b39f582d261181bc7d7c",
+    "name": "Section136callouts",
+    "author": "thatmaxplayle",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/30221-section136callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b3bb582d261181bc7d7e",
+    "name": "Supercallouts",
+    "author": "SuperPyroManiac",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/23995-supercallouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b3e0582d261181bc7d80",
+    "name": "SuperEvents",
+    "author": "SuperPyroManiac",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/24437-superevents/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b3fa582d261181bc7d82",
+    "name": "Ridiculous Callouts",
+    "author": "SzbZsmbr",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/26937-ridiculous-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b43e582d261181bc7d86",
+    "name": "Airport Callouts",
+    "author": "Jesyx",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/19696-airport-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b46c582d261181bc7d88",
+    "name": "Typical Callouts",
+    "author": "NWpilot07",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/29152-typical-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b48f582d261181bc7d8a",
+    "name": "Simple Callouts",
+    "author": "Bejoljo",
+    "mod_link": "https://www.bejoijo.com/post/simple-callout",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b4c0582d261181bc7d8c",
+    "name": "County Callouts",
+    "author": "Abel Gaming",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/28798-county-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b507582d261181bc7d8e",
+    "name": "Pragmatic Callouts",
+    "author": "SuperPyroManiac/sEbi3",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/28557-pragmaticcallouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b595582d261181bc7d91",
+    "name": "Coastal Callouts",
+    "author": "PNWParksFan",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/25465-coastal-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b5c0582d261181bc7d93",
+    "name": "UK Callouts",
+    "author": "Bleddyn Welch",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/22232-uk-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b5dc582d261181bc7d95",
+    "name": "Forestry Callouts",
+    "author": "lukasdb3",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/34663-forestry-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b62b582d261181bc7d97",
+    "name": "Pursuit Pack",
+    "author": "D0WN70AD",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/35256-pursuit-pack-by-d0wn70ad-early-access/?ct=1634157632",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6289b67d582d261181bc7d99",
+    "name": "Generic M4/AR15",
+    "author": "Markoo",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/33822-generic-m4-ar15/",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "6289b69c582d261181bc7d9b",
+    "name": "Max Payne 3 Glock",
+    "author": "Olanov",
+    "mod_link": "https://www.gta5-mods.com/weapons/max-payne-3-glock-for-v-animated",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "6289b6df582d261181bc7d9d",
+    "name": "Kifflom Replacement",
+    "author": "FirstEdit",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/16746-kifflom-replacement-id-requests-from-gta-iv/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "6289b714582d261181bc7d9f",
+    "name": "BetterDispatchAudio",
+    "author": "Steele1925/Requies",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/13350-betterdispatchaudio/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "6289b72b582d261181bc7da1",
+    "name": "XScanner",
+    "author": "Khorio",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/20002-xscanner/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "6289b75d582d261181bc7da3",
+    "name": "NFS Gauge",
+    "author": "XMOD",
+    "mod_link": "https://www.gta5-mods.com/scripts/nfsgauge-rpm-gear-speedometer",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6289b77a582d261181bc7da5",
+    "name": "Stow That Weapon Back Weapon",
+    "author": "Will",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/24264-stow-that-weapon/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6289b797582d261181bc7da7",
+    "name": "LeFix Simple Fuel",
+    "author": "LeFix/ikt",
+    "mod_link": "https://www.gta5-mods.com/scripts/lefix-simple-fuel",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6289b7d0582d261181bc7da9",
+    "name": "Forced First Person Aim",
+    "author": "camxxcore",
+    "mod_link": "https://www.gta5-mods.com/scripts/forced-first-person-aim",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "628a87dc53a88fc94ba10725",
+    "name": "EUP Emergency Uniforms Pack L&O",
+    "author": "Alex_Ashfold/PieRGud",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack-law-order/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a880453a88fc94ba10728",
+    "name": "EUP - Serve & Rescue",
+    "author": "Alex_Ashfold/PieRGud",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/16256-emergency-uniforms-pack-serve-rescue/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a881f53a88fc94ba1072a",
+    "name": "EUP Menu",
+    "author": "Alex_Ashfold/PieRGud",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13245-eup-menu/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a883b53a88fc94ba1072c",
+    "name": "EUP Vest & Earpiece",
+    "author": "HANAKO",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/25692-eup-vest%EF%Bc%86earpiece/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a887d53a88fc94ba1072e",
+    "name": "Taser X26",
+    "author": "BufordT",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/9789-taser-x26/",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "628a889853a88fc94ba10730",
+    "name": "Forests of San Andreas",
+    "author": "Larcius",
+    "mod_link": "https://www.gta5-mods.com/maps/forests-of-san-andreas-revised",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "628a88bc53a88fc94ba10732",
+    "name": "Evidence Marker Textures",
+    "author": "cc2020",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/29939-evidence-markers-texture/",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "628a88e053a88fc94ba10734",
+    "name": "Blaine county Sheriff Uniforms(El Paso county Based)",
+    "author": "GrandTheftPD",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/21513-blaine-county-sheriff-uniforms-lore-friendly-based-on-el-paso-county-co/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a890353a88fc94ba10736",
+    "name": "LSPD Uniform Pack(cranston, RI)",
+    "author": "GrandTheftPD",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/20593-lspd-uniform-pack-cranston-ri/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a891f53a88fc94ba10738",
+    "name": "Surgical Mask[EUP compatible]",
+    "author": "AverageDoe",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/26561-surgical-mask-eup-compatible/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a896653a88fc94ba1073b",
+    "name": "Skin control",
+    "author": "Unknown ",
+    "mod_link": "http://www.mediafire.com/file/lp7ly3pqog3xgpp/Skin_control.zip/file",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "628a899153a88fc94ba1073d",
+    "name": "German Shepherd/Malinois - K9 Dog",
+    "author": "martinct",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a89b353a88fc94ba1073f",
+    "name": "Los Santos Police Department Ped Pack",
+    "author": "PristineAccuracy",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/19880-los-santos-police-department-ped-pack/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a89d953a88fc94ba10741",
+    "name": "Enhanced LSPD cop",
+    "author": "rukrim/Baud0412",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/11307-wip-enhanced-lspd-cop/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a89f753a88fc94ba10743",
+    "name": "Texas DPS Officer",
+    "author": "badass22",
+    "mod_link": "https://www.gta5-mods.com/player/texas-dps-officer",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a8a2253a88fc94ba10745",
+    "name": "California Highway Patrol EUP",
+    "author": "Trpcharles",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/14853-california-highway-patrol-officer-eup-82-93/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a8a3f53a88fc94ba10747",
+    "name": "Law Enforcement Uniform",
+    "author": "HANAKO",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/25666-law-enforcement-uniform/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a8a9553a88fc94ba10749",
+    "name": "Georgia State Patrol EUP",
+    "author": "Trpcharles",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/15904-georgia-state-patrol-trooper-eup-82-93/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a8ad353a88fc94ba1074b",
+    "name": "LSSD Gang Unit",
+    "author": "Baud0412",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/17495-lssd-gang-unit/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a8afe53a88fc94ba1074d",
+    "name": "Call of Duty Ghost Pack",
+    "author": "jr59",
+    "mod_link": "https://www.gta5-mods.com/player/call-of-duty-ghost-pack-add-on-replace",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "628a8b2953a88fc94ba1074f",
+    "name": "True coroners",
+    "author": "Alex_Ashfold",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/9169-true-coroners/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "62957f89f04f7dd312190f3d",
+    "name": "[MM]Cross County Callouts",
+    "author": "Sereous313",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/39139-mm-cross-county-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "629e9df4388910584ec54608",
+    "name": "Basic Callouts",
+    "author": "ZakDev",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/36148-basic-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "629f461b266bbd558294a4fd",
+    "name": "GTA V FOV",
+    "author": "DrDaxxy",
+    "mod_link": "https://www.gta5-mods.com/misc/gta-v-fov-v1-11",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "629f464f266bbd558294a500",
+    "name": "FOV config - Replace FOV Script Download",
+    "author": "Benzo",
+    "mod_link": "https://www.mediafire.com/file/9hbunkagbczfbbv/fov.ini/file",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "629fbaad18cd55150dbc2136",
+    "name": "Vehicle Push",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/39798-vehicle-push/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62a18dbdb82b612c345b7db8",
+    "name": "BLK Highway callouts",
+    "author": "BLKThePower",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37389-blk-highway-callouts-alpha/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62c841d9426b6b568a48cf0d",
+    "name": "Scene Manager",
+    "author": "Rich and PNWParksFan",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/27954-scene-manager/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62cb5e439b3ec7ff7ffcf436",
+    "name": "Charges & Citations for Compulite",
+    "author": "chadc78",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/24051-realistic-usable-charges-citations-for-compulite/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62cb5e849b3ec7ff7ffcf439",
+    "name": "Ultimate Questions for STP",
+    "author": "Sereous313 & EchoWolf",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/25937-ultimate-questions-for-stp/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62d04ca939bab31ae65d341e",
+    "name": "Cop Holster",
+    "author": "PieRGud & Yard1",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/8017-cop-holster/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62d057a4c615e396eb79fecf",
+    "name": "Lore callouts",
+    "author": "ZPhDevs",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40099-lore-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "62d462028c46a442a860281a",
+    "name": "Bodycam",
+    "author": "Sebo & Scaarus",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/19976-bodycam/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62d53b7c2610684fcf060b93",
+    "name": "Realistic Gun Sounds",
+    "author": "Various Authors",
+    "mod_link": "https://www.gta5-mods.com/weapons/realistic-weapons-sounds",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "62d6b147faf817d4506df15f",
+    "name": "San Andreas Ultimate Backup [EUP]",
+    "author": "Joe c Wilson",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/28735-san-andreas-ultimate-backup-eup-complete-edition-93/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "62f5f13cfbb2590ea5357796",
+    "name": "Skip Intro",
+    "author": "Gelse16",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/28110-skip-intro-legal-messages-fixed/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "630bc65613612efe0d11a11b",
+    "name": "Yobbin Callouts",
+    "author": "Yobbin",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/29467-yobbin-callouts/?",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6320fe27b6b4400fa4766da0",
+    "name": "Entity Zapper",
+    "author": "clarinetplayer77",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/24410-entity-zapper/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6320fe54b6b4400fa4766da3",
+    "name": "Debugg Tackle",
+    "author": "debuggyt",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40346-debugg-tackle/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6320fe78b6b4400fa4766da5",
+    "name": "Restrain The Deceased",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40798-restrain-the-deceased/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6320fea6b6b4400fa4766da7",
+    "name": "KTFDO",
+    "author": "khorio",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/13021-ktfdo-keep-the-f-door-open/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6320fed5b6b4400fa4766da9",
+    "name": "Crouch",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40396-crouch/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6320ff13b6b4400fa4766dab",
+    "name": "S.W.A.T. Ballistic Shield",
+    "author": "Vincentsgm",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/30195-oiv-install-swat-ballistic-shield-lightsbullet-resistant/",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "6320ff3cb6b4400fa4766dad",
+    "name": "Turn Off That Engine",
+    "author": "SuperPyroManiac",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/34834-turn-off-that-engine/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6320fff8b6b4400fa4766daf",
+    "name": "Axon Body 3 Active Recording Beeps",
+    "author": "dwu",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/38794-axon-body-3-active-recording-beeps/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "63210063b6b4400fa4766db3",
+    "name": "Devin Plays XScanner Audio Files",
+    "author": "Devin Plays",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/26737-devin-plays-xscanner-audio-files/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "63210086b6b4400fa4766db5",
+    "name": "Debugg crouch Prone",
+    "author": "debuggyt",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40378-debugg-crouch-and-prone/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "632100dab6b4400fa4766db8",
+    "name": "Traffic control",
+    "author": "Stealth22",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/7953-traffic-control/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "632100f7b6b4400fa4766dba",
+    "name": "Plain Sight",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/39797-plain-sight-observation-system/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6321017db6b4400fa4766dbc",
+    "name": "Immersive Effects",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/39799-immersive-effects/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "633cf8699b771dc37b7d28ba",
+    "name": "Police Menu",
+    "author": "RicyVasco",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40987-police-menu-computer-speedcam-parkingticket-and-more/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "633f05bf3c63ddaf6fef9f48",
+    "name": "Delete Vehicle",
+    "author": "waynieoaks",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/41011-delete-vehicle/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6345cb0800f86e25fd5e5a2c",
+    "name": "Whelen cencom Sapphire Howler",
+    "author": "Tref A.",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/38359-whelen-cencom-sapphire-howler/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6352f431a97d7a3509b70445",
+    "name": "Simple Foot control -Walk in First Person",
+    "author": "InfamousSabre",
+    "mod_link": "https://www.gta5-mods.com/scripts/simple-foot-controls",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6356984cad073570a776ca48",
+    "name": "Clipboard and Notepad",
+    "author": "Echooo",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40964-clipboard-and-notepad/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "636c580e4140ff501fe9be30",
+    "name": "Gameconfig (Latest)",
+    "author": "F7YO",
+    "mod_link": "https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "636c58574140ff501fe9be35",
+    "name": "HeapAdjuster",
+    "author": "Dilapidated",
+    "mod_link": "https://www.gta5-mods.com/tools/heapadjuster",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "636d1c75540d272eacaa7564",
+    "name": "Callout Interface",
+    "author": "Opus49 / BenH6021",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/37828-callout-interface/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63a660aefd2c23d3bfcf1b78",
+    "name": "Police Beanie Hats",
+    "author": "Murphy3000",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/25402-police-beanie-hats/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "63a662442bd22620ffa96810",
+    "name": "Weapon Sound Pack - Glock Variety",
+    "author": "jacobbbb",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/35371-weapon-sound-pack-sp-fivem/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "63b1e836fdbf75d6a10f2a11",
+    "name": "Urban callouts",
+    "author": "Veteran Fighter",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/35527-urban-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "63c0bdbedc9f4929440198bd",
+    "name": "Visual Vanilla",
+    "author": "Stryfaar, et al.",
+    "mod_link": "https://www.gta5-mods.com/misc/visualvanilla",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d12f40f7085c94c02c24",
+    "name": "Trunkcontrol 1.3.0.0",
+    "author": "Lenny1161",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/36974-trunkcontrol/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d17140f7085c94c02c27",
+    "name": "[ELS] LSPD Valor Pack (Reupload)",
+    "author": "Ripple",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/29790-els-lspd-valor-pack-reupload/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d1bd40f7085c94c02c29",
+    "name": "[ELS] LSPD Legacy Pack 1.4.0",
+    "author": "Ripple",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/25892-els-lspd-legacy-pack/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d1d640f7085c94c02c2b",
+    "name": "[ELS] SAHP code 3 Pack 1.2.0",
+    "author": "Ripple",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/26793-els-sahp-code-3-pack/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d27940f7085c94c02c2e",
+    "name": "Basic Vehicle Actions V2.01",
+    "author": "Lt.caine",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/10169-basic-vehicle-actions/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d29840f7085c94c02c30",
+    "name": "[ELS] BcSO nFORcE Pack 1.2.0",
+    "author": "Ripple",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/26162-els-bcso-nforce-pack/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d2c040f7085c94c02c32",
+    "name": "[ELS] Unmarked 2020 FPIU",
+    "author": "Frost88",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/25153-els-first-release-unmarked-2020-fpiu-beta/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d2e640f7085c94c02c34",
+    "name": "Drone System",
+    "author": "Panos1221",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/33958-dronesystem-remote-controlled-drone-live-camera-wzoom-and-more/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d31f40f7085c94c02c38",
+    "name": "Texas DPS Highway Patrol charger (Loaded Interior)",
+    "author": "EmergencyDistributors",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/42089-texas-dps-highway-patrol-charger-loaded-interior/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d33b40f7085c94c02c3a",
+    "name": "2018 Dodge charger 1.0.1",
+    "author": "Rabbit Development",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/42286-2018-dodge-charger/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d36840f7085c94c02c3c",
+    "name": "GENERIc SWAT PED 1.1",
+    "author": "HANAKO",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/30961-generic-swat-ped/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d38a40f7085c94c02c3e",
+    "name": "[ELS] LSPD+BcSO Lenco Bearcat 1.0.0",
+    "author": "Roulge",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/20776-els-lspdbcso-lenco-bearcat/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d3ad40f7085c94c02c40",
+    "name": "Los Santos Police Department Pack [LSPD] 1.2",
+    "author": "Wenz",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclestextures/35567-los-santos-police-department-pack-lspd/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d3cd40f7085c94c02c42",
+    "name": "[ELS] Legacy | San Andreas State Police | car Pack 2.2",
+    "author": "Torz",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/25801-els-legacy-san-andreas-state-police-car-pack/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d3e640f7085c94c02c44",
+    "name": "[ELS] Blaine County Sheriff 2014 Ford Explorer",
+    "author": "StraightGlitcheZ",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/22331-els-blaine-county-sheriff-2014-ford-explorer/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d40140f7085c94c02c46",
+    "name": "Blaine County Traffic Division Upgrade Pack",
+    "author": "EmergencyDistributors",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/42211-blaine-county-traffic-division-upgrade-pack/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d41740f7085c94c02c48",
+    "name": "Unmarked Stealth Traffic Explorer",
+    "author": "EmergencyDistributors",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/42223-unmarked-stealth-traffic-explorer/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d43f40f7085c94c02c4a",
+    "name": "Police Beanie Hats 1.0.1",
+    "author": "Murphy3000",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/character/25402-police-beanie-hats/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d47140f7085c94c02c4e",
+    "name": "Los Santos Police Department Upgrade Pack (DLc & Replace)",
+    "author": "EmergencyDistributors",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/41989-los-santos-police-department-upgrade-pack-dlc-replace/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63c9d48a40f7085c94c02c50",
+    "name": "Legend/Slicktop Pack 1.0.0",
+    "author": "Maurice97",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/vehiclemodels/23153-legendslicktop-pack/",
+    "category": "Vehicles",
+    "__v": 0
+  },
+  {
+    "_id": "63cb1944aabf81e06cd001f4",
+    "name": "Higher And Lower Increased LOD Draw Distance Mod",
+    "author": "TimmyLuke017 Gaming",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/38412-higher-and-lower-increased-lod-draw-distance-mod/",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "63cb1974aabf81e06cd001f7",
+    "name": "SoundOff SIgnal Nergy",
+    "author": "Mr. Animation 422",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/29025-soundoff-signal-nergy/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "63d16ff9fe6171a7fac54793",
+    "name": "Whelen Cencom Sapphire Rumbler",
+    "author": "StraightGlitcheZ",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/18799-whelen-cencom-sapphire-rumbler/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "63dd1b07d18a4412ce3ac4dc",
+    "name": "EUP Backup config 9.3",
+    "author": "Joe Wilson",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/28735-eup-backup-configurations-93/",
+    "category": "Wardrobe",
+    "__v": 0
+  },
+  {
+    "_id": "63e00380e3ec43df12a2fd8b",
+    "name": "Axon Signal Beta",
+    "author": "Sergeant Nighthawk",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/42724-axon-signal-beta/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63ec11c4fcd3b893154e6f8c",
+    "name": "Holster Sounds",
+    "author": "BenH6021 & Opus49",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/42713-holster-sounds/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63ec11eefcd3b893154e6f8f",
+    "name": "Axon Signal",
+    "author": "Sergeant Nighthawk",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/42724-axon-signal-now-w-body-camera-overlay-and-rockstar-editor-integration/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63ec121efcd3b893154e6f92",
+    "name": "Scrub!",
+    "author": "Veteranfighter",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/42816-scrub/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63ec126ffcd3b893154e6f97",
+    "name": "Maniac Callouts",
+    "author": "Sputtman",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/38222-maniaccallouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "63ec1352fcd3b893154e6fad",
+    "name": "Seatbelt",
+    "author": "Faya",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/38733-seatbelt/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "63f6c3f36ff7a872ec9e4072",
+    "name": "AR-15 Pack",
+    "author": "Jridah",
+    "mod_link": "https://www.gta5-mods.com/weapons/ar-15-pack",
+    "category": "Weapons",
+    "__v": 0
+  },
+  {
+    "_id": "63fd4f717e84663201e1d07a",
+    "name": "Definitive Callouts",
+    "author": "RicyVasco",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/40796-definitive-callouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "640f4695cf35726ea941ac52",
+    "name": "Breathalyzer Graphic Model Stop The Ped",
+    "author": "Howard03",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/27981-breathalyzer/",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "640f46e69c3e0df2035ccdad",
+    "name": "Drug Test Graphic Model Stop The Ped",
+    "author": "Howard03",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/28030-stpdrug-tester/",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "641f5fefdfb0cef1da15fa00",
+    "name": "Chaos Callouts",
+    "author": "Dylann24",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/42924-chaoscallouts/",
+    "category": "Callouts",
+    "__v": 0
+  },
+  {
+    "_id": "6421da58d244be263be4834e",
+    "name": "Benzo's Grammar Police custom Folder",
+    "author": "Opus49",
+    "mod_link": "https://drive.google.com/file/d/1bcmgV4DzLAwn_8dXj0bebH5n4JBQtiQ5/view?usp=sharing",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "6449b0ca2d1c262465efa01b",
+    "name": "NVE - Natural Vision Evolved",
+    "author": "Razed",
+    "mod_link": "https://www.razedmods.com/gta-v",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "644c3becad9c3480f633151f",
+    "name": "OpenIV - OFFLINE Version",
+    "author": "OpenIV team",
+    "mod_link": "https://gta5mod.net/gta-5-mods/tools/openiv-3-1/",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "64587f9cfb6d2c9a87bffc95",
+    "name": "SimpleHud",
+    "author": "Venoxity",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/39944-simplehud/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "645c2851053f6ea9c7907c0a",
+    "name": "4k Satellite Map Mod",
+    "author": "shamim4s",
+    "mod_link": "https://www.gta5-mods.com/maps/satellite-view-map-latest-working-on-v1-61-or-1-0-2699-0",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "64640b557c1f55b39289478f",
+    "name": "Soundoff Signal 380",
+    "author": "bakerxgooty",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/24623-soundoff-signal-380-siren/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6495190727be307eebc28695",
+    "name": "Enhanced Weapon Control",
+    "author": "Rohit685",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/44035-enhanced-weapon-control/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "649e260830640c0018d6edf6",
+    "name": "Tornado Script",
+    "author": "camxxcore",
+    "mod_link": "https://www.gta5-mods.com/scripts/tornado-script",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "64ab5b847743e9e22659fb60",
+    "name": "Resource Adjuster",
+    "author": "zombieguy",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/misc/42250-resource-adjuster/",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "64ce84da960c34af6fc99d4d",
+    "name": "HeapAdjuster",
+    "author": "Dilapidated",
+    "mod_link": "https://www.gta5-mods.com/tools/heapadjuster",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "64ce850cbfb31cf03662c57c",
+    "name": "Packfile Limit Adjuster",
+    "author": "Unknown Modder",
+    "mod_link": "https://www.gta5-mods.com/tools/packfile-limit-adjuster",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "64d55a55cdf5ea7ef32d2a8d",
+    "name": "Immersive Ambient Events",
+    "author": "Echooo and Astro",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/44840-immersive-ambient-events/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "64d55d2bd57bbe5c4e3dbe44",
+    "name": "Immersive Ambient Events",
+    "author": "Echooo & Astroburgers",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/44840-immersive-ambient-events/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "64d55d7c30837e2aff91838c",
+    "name": "Script Hook V",
+    "author": "Alexander Blade",
+    "mod_link": "http://www.dev-c.com/gtav/scripthookv/",
+    "category": "Essentials",
+    "__v": 0
+  },
+  {
+    "_id": "64d56158034c952999c78e15",
+    "name": "No Officer Profanity",
+    "author": "Pherem",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/41845-no-officer-profanity-now-with-two-options/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "64dc3dde6274354d331d3b7c",
+    "name": "Kuchera Callouts",
+    "author": "againstallods",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/scripts/43310-kuchera-callouts/",
+    "category": "Plugins",
+    "__v": 0
+  },
+  {
+    "_id": "64de796322837f99f4dd21e5",
+    "name": "Fivem OcRP Postal code MAP converted for SP",
+    "author": "chris Badger",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/datafile/43959-fivem-ocrp-postal-code-map-converted-for-sp/",
+    "category": "Graphics",
+    "__v": 0
+  },
+  {
+    "_id": "64fe0b759b8970d8cbc0a1c1",
+    "name": "Motorola Astro Spectra",
+    "author": "Werkan",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/30819-motorola-astro-spectra/",
+    "category": "Sirens",
+    "__v": 0
+  },
+  {
+    "_id": "6511c532e6a185c56f91f0e7",
+    "name": "Real Life Glock 19 Gun Sound From Bodycam",
+    "author": "TrooperDuckyYT",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/43720-real-life-glock-19-gun-sound-from-bodycam/",
+    "category": "Other Audio",
+    "__v": 0
+  },
+  {
+    "_id": "6511c55311021a2487eb998d",
+    "name": "Real Life Glock 19 Gun Sound From Bodycam",
+    "author": "TrooperDuckyYT",
+    "mod_link": "https://www.lcpdfr.com/downloads/gta5mods/audio/43720-real-life-glock-19-gun-sound-from-bodycam/",
+    "category": "Weapons",
+    "__v": 0
+  }
+]

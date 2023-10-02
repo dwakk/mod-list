@@ -1,0 +1,15 @@
+@media screen and (max-width: 768px) {
+    .ms-menu .ms-menu-icon {
+        top: 25px
+    }
+}
+
+.ms-card .ms-card-title span {
+    position: relative;
+
+}
+
+button.ms-primary, .ms-btn.ms-primary  {
+    position: relative;
+
+}

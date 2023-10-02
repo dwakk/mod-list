@@ -1,0 +1,30 @@
+div .mods-warning {
+    margin: 5px auto 5px auto;
+    background: hsla(0,0%,100%,.2);
+    border-radius: 10px;
+    max-width: 575px;
+    padding: 5px 0 5px 0;
+}
+
+.mods-warning h5 {
+    font-size: 20px;
+    word-spacing: 2px;
+}
+
+.mods-grid {
+    display: grid;
+    overflow: hidden;
+    width: 75%;
+    align-items: center;
+    grid-gap: 20px;
+    gap: 20px;
+    padding: 10px;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+
+@media (min-width: 768px) {
+    .mods-grid {
+        grid-template-columns: repeat(4, minmax(150px, 1fr));
+    }
+}
